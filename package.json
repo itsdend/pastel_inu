@@ -1,0 +1,32 @@
+{
+    "name": "pastel-inu",
+    "displayName": "pastel_inu",
+	"publisher": "d-end",
+    "description": "pastel cyberpunk inspired theme",
+    "version": "0.0.1",
+	"icon": "images/pastel_inu.png",
+    "engines": {
+        "vscode": "^1.85.0"
+    },
+	"keywords": [
+		"theme",
+		"d end",
+		"pastel",
+		"akita",
+		"cyberpunk",
+		"pastel dark",
+		"pastel cyberpunk"
+	],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "pastel_inu",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pastel_inu-color-theme.json"
+            }
+        ]
+    }
+}

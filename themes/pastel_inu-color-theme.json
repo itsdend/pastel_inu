@@ -372,7 +372,7 @@
 			"scope": [
 				"variable",
 				"source.python",
-				"entity.name"
+				"entity.name.tag"
 			],
 			"settings": {
 				"foreground": "#fc50b4",
@@ -450,10 +450,11 @@
 			"name": "Function",
 			"scope": [
 				"meta.function-call",
+				"meta.method-call",
+				"entity.name.function.call",
 				"variable.function",
 				"support.function",
 				"keyword.other.special-method",
-				"entity.name.function",
 				"meta.paragraph",
 				"entity.other"
 			],
@@ -467,6 +468,7 @@
 			"scope": [
 				"entity.name.function.definition",
 				"meta.function.erlang",
+				"meta.function",
 				"meta.directive.export.erlang"
 			],
 			"settings": {

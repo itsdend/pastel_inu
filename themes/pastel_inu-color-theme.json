@@ -151,8 +151,11 @@
 		"inputOption.hoverBackground": "#24273a",
 
 		//button
+		"button.foreground": "#7ac3ff",
 		"button.border": "#8a3868",
 		"button.background": "#8a3868",
+		"textLink.foreground": "#4fc8b7",
+		"textLink.activeForeground": "#7ac3ff",
 
 		// PanelTitle Section
 		"panelTitle.activeBorder": "#7ac3ff",

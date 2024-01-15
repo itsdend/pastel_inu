@@ -20,6 +20,10 @@
     "categories": [
         "Themes"
     ],
+	"license":"MIT",
+	"repository": {
+		"url": "https://github.com/itsdend/pastel_inu"
+	},
     "contributes": {
         "themes": [
             {

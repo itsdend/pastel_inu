@@ -120,7 +120,25 @@
 		// Terminal Section
 		"terminalCursor.foreground": "#FDFD96",
 		"terminal.foreground": "#eb87b6",
-		"terminal.ansiBrightBlack": "#7ac3ff", // argumenti --env
+
+		"terminal.ansiBlack": "#8a3868",
+		"terminal.ansiRed": "#fc50b4",
+		"terminal.ansiBlue": "#7ac3ff",
+		"terminal.ansiCyan": "#F2D5CF",
+		"terminal.ansiGreen": "#4fc8b7",
+		"terminal.ansiMagenta": "#d179ee",
+		"terminal.ansiWhite": "#699dad",
+		"terminal.ansiYellow": "#FDFD96",
+
+		"terminal.ansiBrightBlack": "#8a3868", // argumenti --env
+		"terminal.ansiBrightBlue": "#7ac3ff",
+		"terminal.ansiBrightCyan": "#F2D5CF",
+		"terminal.ansiBrightGreen": "#4fc8b7",
+		"terminal.ansiBrightMagenta": "#d179ee",
+		"terminal.ansiBrightRed": "#fc50b4",
+		"terminal.ansiBrightWhite": "#699dad",
+		"terminal.ansiBrightYellow": "#FDFD96",
+
 
 		// Panel
 		"panelTitle.activeForeground": "#7ac3ff",

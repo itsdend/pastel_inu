@@ -3,7 +3,7 @@
     "displayName": "pastel_inu",
 	"publisher": "d-end",
     "description": "pastel cyberpunk inspired theme",
-    "version": "0.0.4",
+    "version": "0.0.5",
 	"icon": "images/pastel_inu.png",
     "engines": {
         "vscode": "^1.85.0"
@@ -26,6 +26,11 @@
 	},
     "contributes": {
         "themes": [
+            {
+                "label": "pastel_inu-focus",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pastel_inu-focus-color-theme.json"
+            },
             {
                 "label": "pastel_inu",
                 "uiTheme": "vs-dark",

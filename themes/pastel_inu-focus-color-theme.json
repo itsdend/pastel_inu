@@ -1,6 +1,6 @@
 
 {
-	"name": "pastel inu",
+	"name": "pastel inu focus",
 	"type": "dark",
 	"colors": {
 
@@ -104,15 +104,15 @@
 		"inputValidation.errorBorder": "#ff38b3",
 
 		// ActivityBar Section
-		"activityBar.background": "#8a3865",
+		"activityBar.background": "#24273a",
 		"activityBar.foreground": "#7ac3ff",
 		"activityBarBadge.background": "#7ac3ff",
 		"activityBarBadge.foreground": "#24273a",
 
 		//titlebar
-		"titleBar.activeBackground": "#8a3868",
+		"titleBar.activeBackground": "#24273a",
 		"titleBar.inactiveBackground": "#24273a",
-		"titleBar.activeForeground": "#7ac3ff",
+		"titleBar.activeForeground": "#eb87b6",
 
 		// input -- in find project background
 		"input.background": "#3429469e",
@@ -145,7 +145,8 @@
 
 		// Tab Section
 		"tab.activeForeground": "#eb87b6",
-		"tab.activeBackground": "#8a3868",
+		"tab.activeBorder": "#eb87b6",
+		"tab.activeBackground": "#24273a",
 		"tab.border": "#8a386800",
 		"tab.inactiveBackground": "#24273a",
 		"tab.inactiveForeground": "#eb87b6",
@@ -191,11 +192,11 @@
 		"tree.indentGuidesStroke": "#8a386800",
 
 		// StatusBar Section
-		"statusBar.background": "#8a3868",
-		"statusBar.foreground": "#7ac3ff",
-		"statusBar.debuggingBackground": "#24273a",
-		"statusBar.debuggingForeground": "#eb87b6",
-		"statusBar.noFolderBackground": "#8a3868",
+		"statusBar.background": "#24273a",
+		"statusBar.foreground": "#eb87b6",
+		"statusBar.debuggingBackground": "#8a3868",
+		"statusBar.debuggingForeground": "#7ac3ff",
+		"statusBar.noFolderBackground": "#24273a",
 
 		// List Section
 		"list.activeSelectionBackground": "#3f2131",

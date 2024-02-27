@@ -67,7 +67,7 @@
 
 		// GitLens Section
 		"gitlens.lineHighlightBackgroundColor": "#ce7d8df3",
-		"gitlens.lineHighlightOverviewRulerColor": "#FDFD96",
+		"gitlens.lineHighlightOverviewRulerColor": "#f9e2af",
 		"gitlens.trailingLineForegroundColor": "#eb87b688",
 
 		// Error lens
@@ -87,7 +87,7 @@
 		"gitDecoration.submoduleResourceForeground": "#eb87b6",
 
 		// File name color with error or a warning
-		"list.warningForeground": "#FDFD96",
+		"list.warningForeground": "#f9e2af",
 		"list.errorForeground": "#ff38b3",
 
 		// Git gutter color
@@ -99,7 +99,7 @@
 		// InputValidation Section TODO
 		"inputValidation.infoBackground": "#002f6de8",
 		"inputValidation.infoBorder": "#7ac3ff",
-		"inputValidation.warningBorder": "#FDFD96",
+		"inputValidation.warningBorder": "#f9e2af",
 		"inputValidation.errorBackground": "#53001ce5",
 		"inputValidation.errorBorder": "#ff38b3",
 
@@ -128,7 +128,7 @@
 		"terminal.ansiGreen": "#4fc8b7",
 		"terminal.ansiMagenta": "#d179ee",
 		"terminal.ansiWhite": "#699dad",
-		"terminal.ansiYellow": "#FDFD96",
+		"terminal.ansiYellow": "#f9e2af",
 
 		"terminal.ansiBrightBlack": "#8a3868", // argumenti --env
 		"terminal.ansiBrightBlue": "#7ac3ff",
@@ -137,7 +137,7 @@
 		"terminal.ansiBrightMagenta": "#d179ee",
 		"terminal.ansiBrightRed": "#fc50b4",
 		"terminal.ansiBrightWhite": "#699dad",
-		"terminal.ansiBrightYellow": "#FDFD96",
+		"terminal.ansiBrightYellow": "#f9e2af",
 
 
 		// Panel
@@ -251,7 +251,7 @@
 			"fontStyle": ""
 		},
 		"keyword": {
-			"foreground": "#FDFD96",
+			"foreground": "#f9e2af",
 			"fontStyle": ""
 		},
 		"function": {
@@ -362,7 +362,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#FDFD96",
+				"foreground": "#f9e2af",
 				"fontStyle": ""
 			}
 		},
@@ -428,7 +428,7 @@
 				"keyword.control"
 			],
 			"settings": {
-				"foreground": "#FDFD96",
+				"foreground": "#f9e2af",
 				"fontStyle": ""
 			}
 		},
@@ -463,7 +463,7 @@
 				"keyword.control.directive"
 			],
 			"settings": {
-				"foreground": "#FDFD96",
+				"foreground": "#f9e2af",
 				"fontStyle": ""
 			}
 		},

@@ -3,7 +3,7 @@
     "displayName": "pastel_inu",
 	"publisher": "d-end",
     "description": "pastel cyberpunk inspired theme",
-    "version": "0.0.5",
+    "version": "0.0.6",
 	"icon": "images/pastel_inu.png",
     "engines": {
         "vscode": "^1.85.0"
